@@ -21,3 +21,7 @@ Scope of Work
     Create an IBM Cloud Functions web action that allows Watson Assistant to post queries to Watson Discovery
 
     Build a web application with integration to all these services & deploy the same on IBM Cloud Platform
+Youtube link:
+https://youtu.be/GshqNvMVGyg
+Testimonials:
+https://youtu.be/iYAwFo8f-v8
